@@ -1,0 +1,14 @@
+{
+  "name": "docx-to-pdf",
+  "version": "1.0.0",
+  "description": "Convert DOCX files to PDF while maintaining formatting",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mammoth": "^1.6.0",
+    "puppeteer": "^21.5.0"
+  }
+}
